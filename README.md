@@ -1,6 +1,5 @@
 # Business-Process-Intelligence
 ## First Project: Optimization of Loan Application Process
-# **Project Overview**
 
 ### Project Context
 
@@ -39,7 +38,6 @@ Our comprehensive analysis led to several actionable insights:
 This project significantly honed our skills in data analysis and process optimization. We submitted our comprehensive report, which details our methods and findings. Our work was well-received, earning a score of 96 out of 100, reflecting the high quality and applicability of our analysis.
 
 ## Second Project: Optimizing Ticket Management
-# **Project Overview**
 
 ### Project Context
 
