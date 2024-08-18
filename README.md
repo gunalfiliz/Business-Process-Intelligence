@@ -6,11 +6,7 @@
 As a key component of the Business Process Intelligence course at RWTH Aachen University, our project, under the guidance of Prof. Dr. Ir. Wil van der Aalst, was to analyze and optimize the loan application process of a major German bank. The project was an intensive application of theoretical concepts to a real-world dataset, focusing on data-driven process improvement.
 
 ### Objective
-
-<aside>
-<img src="/icons/bookmark-outline_gray.svg" alt="/icons/bookmark-outline_gray.svg" width="40px" /> Our main goal was to dissect and enhance the bank's loan application process using process mining and predictive analytics. This included identifying bottlenecks, predicting loan application outcomes, and understanding customer behaviour patterns to improve service efficiency and customer satisfaction.
-
-</aside>
+Our main goal was to dissect and enhance the bank's loan application process using process mining and predictive analytics. This included identifying bottlenecks, predicting loan application outcomes, and understanding customer behaviour patterns to improve service efficiency and customer satisfaction.
 
 ### **Duration**
 
@@ -45,10 +41,7 @@ As a key component of the Business Process Intelligence course at RWTH Aachen Un
 
 ### Objective
 
-<aside>
-<img src="/icons/bookmark-outline_gray.svg" alt="/icons/bookmark-outline_gray.svg" width="40px" /> Our objective is to enhance the understanding and analysis of business process intelligence by exploring various aspects such as event log properties, process discovery, conformance checking, decision mining, and performance evaluation. Through detailed examination and interpretation of the provided data, we aim to derive valuable insights that can inform decision-making and process optimization strategies.
-
-</aside>
+Our objective is to enhance the understanding and analysis of business process intelligence by exploring various aspects such as event log properties, process discovery, conformance checking, decision mining, and performance evaluation. Through detailed examination and interpretation of the provided data, we aim to derive valuable insights that can inform decision-making and process optimization strategies.
 
 ### **Duration**
 
